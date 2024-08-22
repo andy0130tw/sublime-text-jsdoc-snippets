@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@returns ${1:any}
+]]></content>
+  <tabTrigger>@returns</tabTrigger>
+  <scope>comment.block.documentation</scope>
+  <description>@returns ...</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@template ${1:T}
+]]></content>
+  <tabTrigger>@template</tabTrigger>
+  <scope>comment.block.documentation</scope>
+  <description>@template ...</description>
+</snippet>

@@ -1,0 +1,10 @@
+{
+    "enabled": true,
+    "initializationOptions": {
+        "disableAutomaticTypingAcquisition": true,
+        "preferences": {
+            "quotePreference": "single"
+        }
+    },
+    "auto_complete_selector": "xxx.delibrately.disable.this.xxx"
+}

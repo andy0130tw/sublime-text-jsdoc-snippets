@@ -1,0 +1,9 @@
+{
+    "auto_complete_selector": "meta.tag, comment.block.documentation, source - comment - string.quoted.double - string.quoted.single - string.unquoted.heredoc",
+    "auto_complete_triggers":
+    [
+        {"selector": "punctuation.accessor", "rhs_empty": true},
+        {"characters": "@"},
+        {"selector": "meta.import", "characters": ".\"'/"}
+    ]
+}

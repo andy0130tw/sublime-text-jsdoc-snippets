@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@param {${1:any}} ${2:arg}
+]]></content>
+  <tabTrigger>@param</tabTrigger>
+  <scope>comment.block.documentation</scope>
+  <description>@param ...</description>
+</snippet>

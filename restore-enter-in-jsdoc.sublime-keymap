@@ -1,0 +1,9 @@
+[
+	{ "keys": ["enter"], "command": "commit_completion", "context":
+		[
+			{ "key": "auto_complete_visible" },
+			{ "key": "is_javadoc", "operator": "equal", "operand": true, "match_all": true }
+		]
+	}
+]
+
