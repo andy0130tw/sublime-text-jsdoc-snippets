@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@ts-expect-error
+]]></content>
+  <tabTrigger>@ts-expect-error</tabTrigger>
+  <scope>comment.line</scope>
+  <description>@ts directive</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@ts-ignore
+]]></content>
+  <tabTrigger>@ts-ignore</tabTrigger>
+  <scope>comment.line</scope>
+  <description>@ts directive</description>
+</snippet>

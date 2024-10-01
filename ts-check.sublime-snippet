@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@ts-check
+]]></content>
+  <tabTrigger>@ts-check</tabTrigger>
+  <scope>comment.line</scope>
+  <description>@ts directive</description>
+</snippet>
