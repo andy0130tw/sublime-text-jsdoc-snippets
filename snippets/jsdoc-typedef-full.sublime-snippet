@@ -3,6 +3,6 @@
 /** @typedef {${1:unknown}} ${2:Foo} */
 ]]></content>
   <tabTrigger>@typedef</tabTrigger>
-  <scope>source.js - comment - string.quoted, source.jsx, source.ts, source.tsx</scope>
+  <scope>(source.js, source.jsx) - comment - string.quoted</scope>
   <description>/** @typedef ... */</description>
 </snippet>

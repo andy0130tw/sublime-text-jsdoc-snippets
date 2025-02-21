@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-/** @param {${2:unknown}} ${1:arg} */
+/** @param {${2:any}} ${1:arg} */
 ]]></content>
   <tabTrigger>@param</tabTrigger>
-  <scope>source.js - comment - string.quoted, source.jsx, source.ts, source.tsx</scope>
+  <scope>(source.js, source.jsx) - comment - string.quoted</scope>
   <description>/** @param ... */</description>
 </snippet>

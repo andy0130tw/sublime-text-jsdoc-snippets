@@ -3,7 +3,8 @@
     "auto_complete_triggers":
     [
         {"selector": "punctuation.accessor", "rhs_empty": true},
-        {"characters": "@"},
+        {"selector": "comment.line.triple-slash.js", "rhs_empty": true},
+        {"selector": "source.js", "characters": "@"},
         {"selector": "meta.import", "characters": ".\"'/"}
     ]
 }

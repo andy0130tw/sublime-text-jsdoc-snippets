@@ -3,6 +3,6 @@
 /** @type {${1:unknown}} */
 ]]></content>
   <tabTrigger>@type</tabTrigger>
-  <scope>source.js - comment - string.quoted, source.jsx, source.ts, source.tsx</scope>
+  <scope>(source.js, source.jsx) - comment - string.quoted</scope>
   <description>/** @type ... */</description>
 </snippet>

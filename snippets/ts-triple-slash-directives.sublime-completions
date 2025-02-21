@@ -1,0 +1,33 @@
+{
+  "scope": "comment.line.triple-slash.js",
+  "completions": [
+    {
+      "kind": "snippet",
+      "trigger": "path",
+      "contents": "<reference path=\"${1:...}\" />",
+      "annotation": "TS triple-slash directive",
+      "details": "Expands to <code>/// &lt;reference path=\"...\" /></code>",
+    },
+    {
+      "kind": "snippet",
+      "trigger": "types",
+      "contents": "<reference types=\"${1:...}\" />",
+      "annotation": "TS triple-slash directive",
+      "details": "Expands to <code>/// &lt;reference types=\"...\" /></code>",
+    },
+    {
+      "kind": "snippet",
+      "trigger": "lib",
+      "contents": "<reference lib=\"${1:...}\" />",
+      "annotation": "TS triple-slash directive",
+      "details": "Expands to <code>/// &lt;reference lib=\"...\" /></code>",
+    },
+    {
+      "kind": "snippet",
+      "trigger": "no-default-lib",
+      "contents": "<reference no-default-lib=\"true\" />",
+      "annotation": "TS triple-slash directive",
+      "details": "Expands to <code>/// &lt;reference no-default-lib=\"true\" /></code>",
+    }
+  ]
+}

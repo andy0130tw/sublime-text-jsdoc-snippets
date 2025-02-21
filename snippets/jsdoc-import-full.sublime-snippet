@@ -3,6 +3,6 @@
 /** @import { ${1:type} } from '${2:package}' */
 ]]></content>
   <tabTrigger>@import</tabTrigger>
-  <scope>source.js - comment.block.documentation - string.quoted, source.jsx, source.ts, source.tsx</scope>
+  <scope>(source.js, source.jsx) - comment - string.quoted</scope>
   <description>/** @import ... */</description>
 </snippet>

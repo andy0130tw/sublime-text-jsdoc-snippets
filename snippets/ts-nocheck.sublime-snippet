@@ -3,6 +3,6 @@
 @ts-nocheck
 ]]></content>
   <tabTrigger>@ts-nocheck</tabTrigger>
-  <scope>comment.line</scope>
+  <scope>comment.line, comment.block</scope>
   <description>@ts directive</description>
 </snippet>
