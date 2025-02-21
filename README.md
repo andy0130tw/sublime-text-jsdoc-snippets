@@ -19,10 +19,10 @@ You may need to patch your JS/JSX-specific settings accordingly for these snippe
 
 ## Implemented features
 
-* In code: In a JS/JSX file, type `@` and select a snippet. For example, `@type` inserts `/** @type {...} */` and place the caret in the blank for you.
+* JSDoc in JS/JSX code: Type `@` in most places and select a snippet. For example, `@type` inserts `/** @type {...} */` and place the caret in the blank for you.
 * In comment blocks: In addition to Sublime Text's built-in JSDoc snippets, these snippets save more keystrokes. For example, `@param` inserts `@param {any} foo`.
-* TS directives: Type `@ts-` in **comments** to insert directives of TypeScript. For example, type `// @` to insert `// @ts-ignore`.
-* TS [triple-slash directives][ts-triple-slash-directive]: When you type a triple-slash, you can insert a `<reference ... />` directive by path, name, lib, etc.
+* TS directives: Type `@ts-` in JS/TS **comments** to insert directives of TypeScript. For example, type `// @` to insert `// @ts-ignore`.
+* TS [triple-slash directives][ts-triple-slash-directive]: Type a triple-slash to insert a `<reference ... />` directive by path, name, lib, etc.
 
 [ts-triple-slash-directive]: https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html
 

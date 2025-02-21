@@ -3,6 +3,6 @@
 @ts-ignore
 ]]></content>
   <tabTrigger>@ts-ignore</tabTrigger>
-  <scope>comment.line, comment.block</scope>
+  <scope>source.js comment.line, source.js comment.block, source.jsx comment.line, source.jsx comment.block, source.ts comment.line, source.ts comment.block, source.tsx comment.line, source.tsx comment.block</scope>
   <description>@ts directive</description>
 </snippet>
