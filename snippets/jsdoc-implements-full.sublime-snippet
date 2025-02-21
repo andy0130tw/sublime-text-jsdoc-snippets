@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+/** @implements {${1:unknown}} */
+]]></content>
+  <tabTrigger>@implements</tabTrigger>
+  <scope>(source.js, source.jsx) - comment - string.quoted</scope>
+  <description>/** @implements ... */</description>
+</snippet>
